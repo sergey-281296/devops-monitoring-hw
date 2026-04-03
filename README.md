@@ -36,6 +36,3 @@ Grafana доступна: `http://93.77.188.91:3000` (логин/пароль: a
 
 ---
 
-## Ссылка на репозиторий
-
-https://github.com/sergey-281296/devops-monitoring-hw
